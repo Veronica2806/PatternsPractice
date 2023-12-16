@@ -1,7 +1,7 @@
 package org.car;
 
 import org.car.Car.Car;
-import org.car.Director.Director;
+import org.car.director.Director;
 import org.car.builder.CarBuilder;
 
 public class Main {
