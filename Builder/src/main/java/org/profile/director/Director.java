@@ -6,6 +6,6 @@ import org.profile.Department;
 public class Director {
 	public void buildAdmin(Builder builder) {
 		builder.setDepartment(Department.RnD);
-		builder.setRole("Automation QA");
+		builder.setRole("Automation QA team lead");
 	}
 }
